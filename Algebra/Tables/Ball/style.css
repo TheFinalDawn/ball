@@ -1,0 +1,9 @@
+body {
+  background-image: url('https://www.publicdomainpictures.net/pictures/100000/nahled/geometric-pattern-3d-blocks.jpg');
+  font-family: Arial;
+}
+table, th, td, tbody, thead, tfoot {
+  border: 2px solid black;
+  background-color: white;
+  opacity: 0.9;
+}
